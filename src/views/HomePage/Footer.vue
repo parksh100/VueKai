@@ -3,7 +3,7 @@
     <div class="footer-top">
       <div class="container">
         <div class="row gy-4">
-          <div class="col-lg-4">
+          <div class="col-lg-3">
             <img
               class="logo"
               src="../../img/KAILOGO.png"
@@ -14,9 +14,10 @@
             <h5 class="text-white">KAI</h5>
             <ul class="list-unstyled">
               <li><a href="#">About</a></li>
-              <li><a href="#">Services</a></li>
-              <li><a href="#">Features</a></li>
-              <li><a href="#">Pricing</a></li>
+              <li><a href="#">Excellence</a></li>
+              <li><a href="#">Declaration of Impartial</a></li>
+              <li><a href="#">Process</a></li>
+              <li><a href="#">Audit M/D</a></li>
             </ul>
           </div>
           <div class="col-lg-2">
@@ -25,10 +26,10 @@
               <li><a href="#">FAQ's</a></li>
               <li><a href="#">Privacy & Policy</a></li>
               <li><a href="#">Warranty</a></li>
-              <li><a href="#">Shipment</a></li>
+              <!-- <li><a href="#">Shipment</a></li> -->
             </ul>
           </div>
-          <div class="col-lg-4">
+          <div class="col-lg-5">
             <h5 class="text-white">Contact</h5>
             <ul class="list-unstyled">
               <li>Address: 서울특별시 강서구 마곡중앙로59-5 마곡595빌딩 707호</li>
