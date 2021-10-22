@@ -8,7 +8,7 @@
       >
         <img
           class="logo"
-          src="../../img/kaiLogoVe.png"
+          src="../../img/KAI-SITE-LOGO.png"
           alt=""
         >
       </a>
